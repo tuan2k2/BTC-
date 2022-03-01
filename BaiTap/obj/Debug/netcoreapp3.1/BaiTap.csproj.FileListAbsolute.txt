@@ -1,0 +1,14 @@
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.AssemblyReference.cache
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.exe
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.deps.json
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.json
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.dev.json
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\tuanta\source\repos\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.genruntimeconfig.cache
